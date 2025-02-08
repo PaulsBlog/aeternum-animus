@@ -1,0 +1,32 @@
+
+body {
+    background-color: #000000;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    cursor: default;
+}
+
+.container {
+	font-family: Arial, sans-serif; 
+    font-size: 16px;
+	font-weight: bold;
+    line-height: 1.5;              
+    color: #AC0102;                
+	position: absolute;
+		top: 450px;
+		left: 250px;
+}
+
+
+.looking {
+	height: 249px;
+	width: 249px;
+	position: absolute;
+		top: 200px;
+		left: 450px;
+}
+ 
