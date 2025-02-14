@@ -17,16 +17,6 @@ body {
     line-height: 1.5;              
     color: #AC0102;                
 	position: absolute;
-		top: 450px;
+		top: 200px;
 		left: 250px;
 }
-
-
-.looking {
-	height: 249px;
-	width: 249px;
-	position: absolute;
-		top: 200px;
-		left: 450px;
-}
- 
